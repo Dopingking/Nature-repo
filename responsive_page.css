@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1050px){    
+    #navigation{    
+         padding:30px 20px;     
+        text-align: center;   
+     }     
+     .nav{ 
+         display: block;    
+         float: none;         
+         margin-top: 30px; 
+            }              
+         }
+          @media only screen and (max-width: 600px){   
+              .nav {     
+             margin-top: 30px;      
+             margin-left: -70px; 
+                }
+             } 
+             @media only screen and (max-width: 425px){  
+                    #banner h1 { 
+                    font-size: 70px; 
+                    margin-top: 10%;  
+                 }
+                  #navigation {    
+                 padding: 30px 9px;   
+                 text-align: center;
+                 }
+                  .nav li {     
+                    font-size: 14px;
+                 } 
+                }
+                 @media only screen and (max-width:400px){
+                 .nav li {        
+                     font-size: 10px;  
+                       }
+                     
+                     }
